@@ -1,0 +1,17 @@
+Basic Calculator
+Welcome to the Basic Calculator project repository! This project aims to provide a simple calculator application that performs basic arithmetic operations. The calculator is implemented using HTML, CSS, and JavaScript, making it accessible and easy to use in any modern web browser.
+
+Overview
+The repository contains all the necessary files and assets to run the basic calculator application. Here's a brief overview of its functionality:
+
+Features
+Addition, subtraction, multiplication, and division operations.
+Clear button to reset the calculator.
+Responsive design for seamless usage on various devices.
+Usage
+Clone this repository to your local machine.
+Open the index.html file in your preferred web browser.
+Use the buttons to input numbers and perform operations.
+Press the "=" button to calculate the result.
+Press the "C" button to clear the calculator and start a new calculation.
+Screenshots
